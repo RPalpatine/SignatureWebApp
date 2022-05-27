@@ -2,3 +2,6 @@ numpy
 streamlit
 opencv-python-headless
 pillow
+streamlit_cropper
+base64
+io
